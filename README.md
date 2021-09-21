@@ -15,7 +15,7 @@ docker run \
 --name de_challenge \
 -e POSTGRES_PASSWORD="Password1234**" \
 -e POSTGRES_DB=dw_flights \
--v ./init_db.sql:/docker-entrypoint-initdb.d/init_db.sql \
+-v ${PWD}/init_db.sql:/docker-entrypoint-initdb.d/init_db.sql \
 -p 5432:5432 \
 -d postgres
 ```
