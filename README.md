@@ -36,3 +36,6 @@ The live coding challenge is a pair programming session where we will request yo
 - PostgreSQL database
 - ETL tool
 
+## Credits
+
+The NYC Flights 2013 dataset published by [aephidayatuloh](https://www.kaggle.com/aephidayatuloh) was extracted from [Kaggle](https://www.kaggle.com/aephidayatuloh/nyc-flights-2013).
