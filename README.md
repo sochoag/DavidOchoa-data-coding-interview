@@ -4,7 +4,7 @@ This project consists of the basic tools needed to solve BEON's Live Data Engine
 
 ## Set the environment
 
-For developing the first challenge, you will need to set an ETL tool and a PostgreSQL database. You can use whatever tool you feel most comfortable in, although we provide some pre-developed projects that can help you to save time. Our examples were made using Apache Spark, Apache Beam, and dbt and you can find them inside the directories `challenge1/spark`, `challenge/beam`, `challenge/dbt`, respectively. These projects are incomplete or may contain bugs, but already have models mappings and methods for handling CSV files and database connections. Using an SQL database is the only requirement.
+For developing the first challenge, you will need to set an ETL tool and a PostgreSQL database. You can use whatever tool you feel most comfortable in. Using an SQL database is the only requirement.
 
 ### Set the database
 
@@ -30,11 +30,11 @@ The live coding challenge is a pair programming session where we will request yo
 
 ## Requirements
 
-- Your preferred IDE / Code Editor
-- Python 3+
-- SQL Client
-- PostgreSQL database
-- ETL tool
+- Your preferred IDE / Code Editor, e.g., Pycharm, Visual Studio Code, Sublime Text, Atom.
+- Your preferred programming language, e.g., Python, Node, Go, PHP. You can even use Visual Basic if you want.
+- SQL Client, e.g., DataGrip, pgAdmin 4, SQL Server Management Studio, DBeaver.
+- PostgreSQL database. You can deploy it wherever you want, e.g., Docker, locally, AWS, GCP.
+- ETL tool, e.g., Apache Beam, Apache Spark, dbt.
 
 ## Credits
 
