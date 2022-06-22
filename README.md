@@ -1,6 +1,6 @@
-# Live Data Engineer Challenge
+# Data Engineer Coding Exercise
 
-This project consists of the basic tools needed to solve BEON's Live Data Engineer Challenge. It contains a New York City flights dataset, a documents collection, instructions for deploying the required database (PostgreSQL), and pre-developed projects that may help you to save time.
+This project consists of the basic tools needed to solve BEON's Data Engineer Exercise. It contains a New York City flights dataset, a documents collection, instructions for deploying the required database (PostgreSQL), and pre-developed projects that may help you to save time.
 
 ## Set the environment
 
@@ -22,9 +22,9 @@ docker run \
 
 The `init_db.sql` file will be run at database startup for creating the user for connecting to the database and creating the required tables. Once the database has started, it is ready to use with all the necessary structures.
 
-## What does the live coding look like?
+## What does the coding exercise look like?
 
-The live coding challenge is a pair programming session where we will request you to develop an ETL pipeline using whatever tool you feel most comfortable in and a small search application (prototype), solve bugs, or give code advice. You will be able to use Google and any documentation that can help you. Instructions will be provided in the live coding session.
+The coding exercise is a pair programming session where we will request you to develop an ETL pipeline using whatever tool you feel most comfortable in and a small search application (prototype), solve bugs, or give code advice. You will be able to use Google and any documentation that can help you. Instructions will be provided in the live coding session.
 
 *Please, take a look at the datasets in order to understand the data provided. It will help you to save time.*
 
