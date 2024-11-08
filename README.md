@@ -34,7 +34,7 @@ The coding exercise is a pair programming session where we will request you to d
 - Your preferred programming language, e.g., Python, Node, Go, PHP. You can even use Visual Basic if you want.
 - SQL Client, e.g., DataGrip, pgAdmin 4, SQL Server Management Studio, DBeaver.
 - PostgreSQL database. You can deploy it wherever you want, e.g., Docker, locally, AWS, GCP.
-- ETL tool, e.g., Apache Beam, Apache Spark, dbt.
+- Your preferred ETL tools, e.g., Apache Beam, Apache Spark, dbt.
 
 ## Credits
 
