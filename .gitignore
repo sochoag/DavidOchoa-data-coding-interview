@@ -6,3 +6,4 @@
 **/venv
 solutions
 /dataset
+**/.venv
